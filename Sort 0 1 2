@@ -1,0 +1,6 @@
+# 60-DAYS-SDE-SHEET-CHALLENGE
+class Solution {
+    public void sortColors(int[] nums) {
+        Arrays.sort(nums);
+    }
+}
